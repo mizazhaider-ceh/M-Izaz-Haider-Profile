@@ -2,14 +2,13 @@
 
 - 👨‍💻 **Emerging Ethical Hacker | Cybersecurity Enthusiast**
 - 🌐 **Passionate about learning offensive and defensive security strategies**
-- 💡 **Avid learner** of Ethical Hacking, Cybersecurity, Web Development, and new technologies
-- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com)
+- 💡 **Dedicated to Mastery** of Ethical Hacking, Cybersecurity, Web Development, and technology advancements.
+- 📫 Reach me at [mizazhaiderceh@gmail.com](mailto:mizazhaiderceh@gmail.com)
 
 ## 🌟 Skills
 - **Junior level Penetration Testing** | **Host and Network Penetration Testing** | **Vulnerability Assessment** | **Web Application Penetration Testing**
 - **WordPress Designing** | **Security Hardening**
 - **Programming:** **C++, Python, C, HTML**
-
 - **AI Tools Exploration**: Learning to integrate AI tools to enhance cybersecurity practices.
 - **MS Access:** Database Creation and Management
 
@@ -25,7 +24,7 @@ My primary aim is to **become an expert in the cybersecurity field**, with a foc
 ## 💡 Experience
 Although I am an emerging professional, I have already worked on various projects related to **ethical hacking**, **penetration testing**, and **cybersecurity assessments**. My passion for learning drives me to continuously practice my skills and explore new technologies.
 
-- **Penetration Testing**: Gained hands-on experience using tools like Kali Linux, Parrot OS, Metasploit 2, and more. I am continuously learning and expanding my toolset to better assess the security of systems.
+- **Penetration Testing**: Gained hands-on experience using tools  Kali Linux, Parrot OS, Metasploit 2, and tools like Nmap,Web Recon tools,Metaspoilt,Nikto,Nessus,Sublist3r,Google Dorks,Dns Recon and Enumeration tools,Hydra,Aircrack-ng and much more. I am continuously learning and expanding my toolset to better assess the security of systems.
 - **WordPress Web Designing & Security**: I can design WordPress websites and have performed vulnerability assessments on websites built with WordPress. Gained valuable experience in both web design and securing WordPress sites against threats.
 - **Programming**: Have performed multiple projects in C, C++, Python, and HTML at beginner to intermediate levels. Currently expanding my skills to include JavaScript, Bash, and other languages to further enhance my security expertise.
 - **MS Access**: Created and managed databases, gaining intermediate-level experience in database management and administration.
