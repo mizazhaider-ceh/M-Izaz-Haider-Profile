@@ -4,9 +4,9 @@
 
 ## I am Muhammad Izaz Haider (Izaz)
 
-🔹 **Aspiring Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
-🔹 **Passionate about Offensive & Defensive Security**
-🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
+-  🔹 **Aspiring Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
+-  🔹 **Passionate about Offensive & Defensive Security**
+-  🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
 
 💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
 🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
@@ -17,22 +17,22 @@
 
 My primary aim is to **become an expert in the cybersecurity field**, with a focus on **ethical hacking, penetration testing**, and **security management**.
 
-🔹 I aspire to master both **offensive and defensive security** to help organizations protect their digital assets.
-🔹 My goal is to always **stay ahead of the evolving security landscape**, continuously learning and adapting to new threats and technologies.
+-  🔹 I aspire to master both **offensive and defensive security** to help organizations protect their digital assets.
+-  🔹 My goal is to always **stay ahead of the evolving security landscape**, continuously learning and adapting to new threats and technologies.
 
 ## 🛡️ Why I Chose Cybersecurity
 
-### 🔹 My Reason for Selecting Cybersecurity
+### -  🔹 My Reason for Selecting Cybersecurity
 
 - 🕵️ Witnessing real-world cyberattacks and their impact motivated me to pursue cybersecurity to protect individuals and organizations.
 - 🌍 The ever-growing digital world requires skilled professionals to defend against cyber threats, and I want to be part of that frontline defense.
 
-### 🔹 Why I Am Passionate About Security
+### -  🔹 Why I Am Passionate About Security
 
 - 🧩 Cybersecurity combines **problem-solving, ethical responsibility, and continuous learning**, which aligns with my curiosity and drive for innovation.
 - 🔐 The ability to **prevent cybercrimes and protect sensitive data** gives me a sense of purpose and fulfillment.
 
-### 🔹 What Excites Me About the Field
+### -  🔹 What Excites Me About the Field
 
 - ⚡ The fast-paced nature of cybersecurity means there’s always something new to learn, from **ethical hacking techniques to emerging threats**.
 - 🎯 The **thrill of ethical hacking**—finding vulnerabilities before malicious hackers do—is both challenging and rewarding.
@@ -70,7 +70,7 @@ But instead of just feeling angry, I started asking myself:
 As I explored further, I realized that **millions of people fall victim to cyberattacks every day**. 🌍💥
 That’s when I made a decision:
 
-👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
+- 👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
 
 That small thought—wondering how hacking works—grew into a deep **passion for cybersecurity**. ❤️‍🔥💻
 It became clear that **my path was set, and there was no turning back.** 🚀
@@ -82,9 +82,9 @@ Cybersecurity is a vast field 🌐, and without a clear roadmap or mentor, I str
 
 ### 💡 How I Overcame These Challenges:
 
-✔ **Self-research & problem-solving** 🕵️‍♂️ – I explored different domains within cybersecurity and created a structured learning path.
-✔ **Mastering the fundamentals** 🔍 – I deep-dived into programming, attack techniques, and core security principles to build a strong foundation.
-✔ **Engaging with the community** 🌎 – I actively asked questions, connected with cybersecurity experts, and participated in forums to accelerate my learning.
+- - ✔ **Self-research & problem-solving** 🕵️‍♂️ – I explored different domains within cybersecurity and created a structured learning path.
+- - ✔ **Mastering the fundamentals** 🔍 – I deep-dived into programming, attack techniques, and core security principles to build a strong foundation.
+- - ✔ **Engaging with the community** 🌎 – I actively asked questions, connected with cybersecurity experts, and participated in forums to accelerate my learning.
 
 Even today, I continue to face challenges. **However, my ability to adapt, research, and experiment has empowered me to find solutions independently.** 🏆🔥
 
@@ -93,7 +93,7 @@ Even today, I continue to face challenges. **However, my ability to adapt, resea
 ## 👨‍💻 My First Experience with Cybersecurity
 
 My journey into **cybersecurity** was fascinating from the very start. 🚀
-As I explored, I realized that **understanding fundamental concepts** is necessary to truly grasp this field.
+- As I explored, I realized that **understanding fundamental concepts** is necessary to truly grasp this field.
 
 One of my **first hands-on experiences** was **creating a bootable USB of Kali Linux** 🖥️💿 and running it for the first time.
 Exploring its **powerful tools and features** 🛠️ made me incredibly excited—I knew this was just the beginning of something bigger. 🔥
@@ -102,9 +102,9 @@ Exploring its **powerful tools and features** 🛠️ made me incredibly excited
 
 I began my **learning journey** through:
 
-✔ **Online tutorials** 📺 – Learning about **Linux**, **ethical hacking tools**, and **cybersecurity basics**.
-✔ **Hands-on practice** 🛠️ – Experimenting with **Kali Linux** and later switching to **Parrot OS** 🦜 to explore security tools in real-world scenarios.
-✔ **Professional courses & books** 📖 – Studying **structured cybersecurity materials** to build strong foundational knowledge.
+- - ✔ **Online tutorials** 📺 – Learning about **Linux**, **ethical hacking tools**, and **cybersecurity basics**.
+- - ✔ **Hands-on practice** 🛠️ – Experimenting with **Kali Linux** and later switching to **Parrot OS** 🦜 to explore security tools in real-world scenarios.
+- ✔ **Professional courses & books** 📖 – Studying **structured cybersecurity materials** to build strong foundational knowledge.
 
 Each step deepened my **understanding of ethical hacking**, **penetration testing**, and **defensive security techniques**. 🔍💡
 
@@ -122,21 +122,21 @@ This structured approach laid the foundation for my **cybersecurity journey**, a
 
 ## 🛡 Cybersecurity & Ethical Hacking
 
-✔ **Penetration Testing** – Identifying and exploiting vulnerabilities to enhance security. 🔓
-✔ **Vulnerability Assessment** – Analyzing systems to detect security weaknesses. 🛠️
-✔ **Ethical Hacking** – Simulating cyberattacks to strengthen defenses. 💀
+- ✔ **Penetration Testing** – Identifying and exploiting vulnerabilities to enhance security. 🔓
+- ✔ **Vulnerability Assessment** – Analyzing systems to detect security weaknesses. 🛠️
+- ✔ **Ethical Hacking** – Simulating cyberattacks to strengthen defenses. 💀
 
 ## 💻 Technical Skills
 
-✔ **Networking Fundamentals** – Understanding **protocols, firewalls, and network security**. 🌐
-✔ **Linux Fundamentals** – Proficiency in **Linux-based security operations**. 🐧
-✔ **Programming Basics** – Knowledge of **C, C++, HTML (Intermediate level)** for scripting and development. 📜
-✔ **Bash & Python (Intermediate level)** – Writing automation scripts for security tasks. 🐍
-✔ **Computer Fundamentals** – Strong understanding of **hardware, software, and OS security**. 💾
+- ✔ **Networking Fundamentals** – Understanding **protocols, firewalls, and network security**. 🌐
+- ✔ **Linux Fundamentals** – Proficiency in **Linux-based security operations**. 🐧
+- ✔ **Programming Basics** – Knowledge of **C, C++, HTML (Intermediate level)** for scripting and development. 📜
+- ✔ **Bash & Python (Intermediate level)** – Writing automation scripts for security tasks. 🐍
+- ✔ **Computer Fundamentals** – Strong understanding of **hardware, software, and OS security**. 💾
 
 ## 🚀 AI & Cybersecurity
 
-✔ **AI Tools Exploration** – Leveraging **AI** to enhance **cybersecurity practices and threat detection**. 🤖
+- ✔ **AI Tools Exploration** – Leveraging **AI** to enhance **cybersecurity practices and threat detection**. 🤖
 
 With these skills, I am **continuously evolving** to stay ahead in the **dynamic field of cybersecurity**. 🔥
 
@@ -144,34 +144,34 @@ With these skills, I am **continuously evolving** to stay ahead in the **dynamic
 
 ## 🖥️ Operating Systems & Environments
 
-✔ **Kali Linux** – Penetration testing and security assessments. 💻
-✔ **Parrot OS** – Advanced security research and digital forensics. 🦜
-✔ **Metasploitable-2** – A vulnerable OS for hands-on experience. 🎯
+- ✔ **Kali Linux** – Penetration testing and security assessments. 💻
+- ✔ **Parrot OS** – Advanced security research and digital forensics. 🦜
+- ✔ **Metasploitable-2** – A vulnerable OS for hands-on experience. 🎯
 
 ## 🔍 Security & Pentesting Tools
 
-✔ **Metasploit** – Exploitation framework for penetration testing. 🎯
-✔ **Nmap** – Network scanning and vulnerability detection. 🔍
-✔ **Nessus** – Automated vulnerability scanning. 🛡️
-✔ **Burp Suite** – Web application security testing. 🌐
-✔ **WPScan** – WordPress security analysis. 🔐
-✔ **Nikto** – Web server vulnerability scanner. 🖥️
-✔ **Hydra & Medusa** – Password cracking tools. 🔓
-✔ **Aircrack-ng** – Wireless security auditing. 📶
-✔ **Passive & Active Reconnaissance Tools** – Information gathering for cybersecurity assessments. 📡
+- ✔ **Metasploit** – Exploitation framework for penetration testing. 🎯
+- ✔ **Nmap** – Network scanning and vulnerability detection. 🔍
+- ✔ **Nessus** – Automated vulnerability scanning. 🛡️
+- ✔ **Burp Suite** – Web application security testing. 🌐
+- ✔ **WPScan** – WordPress security analysis. 🔐
+- ✔ **Nikto** – Web server vulnerability scanner. 🖥️
+- ✔ **Hydra & Medusa** – Password cracking tools. 🔓
+- ✔ **Aircrack-ng** – Wireless security auditing. 📶
+- ✔ **Passive & Active Reconnaissance Tools** – Information gathering for cybersecurity assessments. 📡
 
 ## 💻 Programming & Scripting Languages
 
-✔ **Python** – Automating security tasks and scripting exploits. 🐍
-✔ **C & C++** – Understanding low-level system security. 🏗️
-✔ **Bash** – Linux scripting for automation. 📜
-✔ **HTML** – Basic web security analysis. 🌐
+- ✔ **Python** – Automating security tasks and scripting exploits. 🐍
+- ✔ **C & C++** – Understanding low-level system security. 🏗️
+- ✔ **Bash** – Linux scripting for automation. 📜
+- ✔ **HTML** – Basic web security analysis. 🌐
 
 ## 🔧 Additional Security Tools
 
-✔ **Packet Analysis Tools** (e.g., **Wireshark, Tcpdump**). 📊
-✔ **Social Engineering Tools** (e.g., **SET Toolkit**). 🎭
-✔ **A lot more!** 🚀
+- ✔ **Packet Analysis Tools** (e.g., **Wireshark, Tcpdump**). 📊
+- ✔ **Social Engineering Tools** (e.g., **SET Toolkit**). 🎭
+- ✔ **A lot more!** 🚀
 
 With a **strong command** of these tools and technologies, I **continuously explore and enhance** my expertise in **cybersecurity**. 🔥
 
@@ -180,7 +180,7 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 🎓 Academic Background
 
-✔ **Matriculation (10th Grade)  & Intermediate (ICS) – Both with Computer Science**🖥️
+- ✔ **Matriculation (10th Grade)  & Intermediate (ICS) – Both with Computer Science**🖥️
 
    🎯 **Excelled in programming and IT fundamentals**, building a strong technical foundation
    🏆 **Achieved top position** in computer science.
@@ -188,11 +188,11 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 📖 Self-Learning & Additional Courses
 
-✔ **Online Certifications & Courses** 🎓
+- ✔ **Online Certifications & Courses** 🎓
    📌 **Completed various cybersecurity & IT courses** on Udemy and other platforms.
    🛡 **Gained expertise** in **ethical hacking, penetration testing, and programming**.
 
-✔ **Books & Resources** 📚
+- ✔ **Books & Resources** 📚
    📖 *"The Concepts of Information Technology" (9th Edition)* – Strengthened **fundamental IT knowledge**.
    🔍 *"Introduction to Penetration Testing" by Georgia Weidman* – **Deepened understanding** of ethical hacking & cybersecurity testing.
 
@@ -200,13 +200,13 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 # 💡 Experience & Projects
 
-## 🔹 Hands-On Experience
+## -  🔹 Hands-On Experience
 
-✔ **Worked extensively** with **Kali Linux, Parrot OS, and Metasploitable 2** to perform real-world **penetration testing** and **ethical hacking exercises**. 🛠️
-✔ **Solved various labs** on **TryHackMe**, enhancing my **offensive security skills**. 🎯
-✔ **Applied knowledge** in **vulnerability assessment, exploitation, and network security** through hands-on practice. 🔐
+- ✔ **Worked extensively** with **Kali Linux, Parrot OS, and Metasploitable 2** to perform real-world **penetration testing** and **ethical hacking exercises**. 🛠️
+- ✔ **Solved various labs** on **TryHackMe**, enhancing my **offensive security skills**. 🎯
+- ✔ **Applied knowledge** in **vulnerability assessment, exploitation, and network security** through hands-on practice. 🔐
 
-## 🔹 Personal Projects
+## -  🔹 Personal Projects
 
 🚀 **Constantly working on practical projects, security research, and ethical hacking exercises** to enhance my expertise.
 📌 **Will continuously update and share findings** on my **GitHub** profile in the form of repositories.
@@ -217,8 +217,8 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 🚀 Become a Cybersecurity Expert
 
-🔹 **Committed to continuous learning** to become a top-tier **cybersecurity specialist**.
-🔹 Mastering both **offensive** (ethical hacking, penetration testing) & **defensive** (security operations, threat analysis) strategies.
+-  🔹 **Committed to continuous learning** to become a top-tier **cybersecurity specialist**.
+-  🔹 Mastering both **offensive** (ethical hacking, penetration testing) & **defensive** (security operations, threat analysis) strategies.
 
 ## 🔐 Contribute to Open-Source Security Tools
 
@@ -226,10 +226,10 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 💼 Work in High-Stakes Cybersecurity Roles
 
-🔹 **Aiming to secure** critical infrastructures, businesses, and individuals by working in **challenging cybersecurity roles**:
-✔ **Penetration Tester** – Simulating real-world attacks to **enhance security**. 🔍
-✔ **Security Analyst** – **Monitoring and defending** systems from cyber threats. 🛡️
-✔ **Red Team Specialist** – **Testing and strengthening** security defenses through **ethical hacking**. 🎭
+-  🔹 **Aiming to secure** critical infrastructures, businesses, and individuals by working in **challenging cybersecurity roles**:
+- ✔ **Penetration Tester** – Simulating real-world attacks to **enhance security**. 🔍
+- ✔ **Security Analyst** – **Monitoring and defending** systems from cyber threats. 🛡️
+- ✔ **Red Team Specialist** – **Testing and strengthening** security defenses through **ethical hacking**. 🎭
 
 ## 🌍 Long-Term Vision
 
@@ -255,15 +255,15 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 💡 Key Areas of Interest:
 
-✔ **Penetration Testing** – Simulating attacks to **strengthen security**. 🔍
-✔ **Bug Bounty Hunting** – Finding and **reporting security flaws**. 💰
-✔ **Web Application Security** – Protecting **websites from hackers**. 🌐🛡️
-✔ **Offensive Security** – Learning **attack techniques** to enhance defense. ⚔️
-✔ **Defensive Security** – Implementing **strategies to prevent cyber attacks**. 🛡️
+- ✔ **Penetration Testing** – Simulating attacks to **strengthen security**. 🔍
+- ✔ **Bug Bounty Hunting** – Finding and **reporting security flaws**. 💰
+- ✔ **Web Application Security** – Protecting **websites from hackers**. 🌐🛡️
+- ✔ **Offensive Security** – Learning **attack techniques** to enhance defense. ⚔️
+- ✔ **Defensive Security** – Implementing **strategies to prevent cyber attacks**. 🛡️
 
 ## 📖 Commitment to Continuous Learning
 
-🔹 **Cybersecurity evolves fast**—I stay updated through:
+-  🔹 **Cybersecurity evolves fast**—I stay updated through:
 📚 **Hands-on practice** | 🔗 **Security communities** | 📖 **Cybersecurity research**
 
 💡 **For me, cybersecurity isn’t just a career—it’s a mission** to make the digital world safer. 🔥💻🔐
@@ -275,8 +275,8 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 💬 **Let’s Connect!**
 I’m always open to **collaborations, discussions, and networking** in cybersecurity. Whether you're:
-🔹 A **fellow ethical hacker** 🕵️‍♂️
-🔹 A **company looking for security expertise** 🏢
-🔹 Someone **passionate about learning cybersecurity** 🎓
+-  🔹 A **fellow ethical hacker** 🕵️‍♂️
+-  🔹 A **company looking for security expertise** 🏢
+-  🔹 Someone **passionate about learning cybersecurity** 🎓
 
 **Feel free to reach out!** 🚀🔐
