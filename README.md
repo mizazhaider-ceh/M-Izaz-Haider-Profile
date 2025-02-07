@@ -8,8 +8,8 @@
 -  🔹 **Passionate about Offensive & Defensive Security**
 -  🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
 
-💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
-- 🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
+###💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
+###🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
 
 📧 **Email:** [mizazhaiderceh@gmail.com](mailto:mizazhaiderceh@gmail.com)
 
@@ -58,8 +58,8 @@ This realization fascinated me, but I was still unaware that **cybersecurity wou
 
 ## 💻 The Defining Moment: When My Account Got Hacked
 
-Everything changed when one of my **Gmail accounts was hacked**. 🆘📩
-This account was linked to my gaming ID 🎮, and losing access frustrated me. 😡
+###Everything changed when one of my **Gmail accounts was hacked**. 🆘📩
+###This account was linked to my gaming ID 🎮, and losing access frustrated me. 😡
 
 But instead of just feeling angry, I started asking myself:
 
@@ -70,7 +70,7 @@ But instead of just feeling angry, I started asking myself:
 As I explored further, I realized that **millions of people fall victim to cyberattacks every day**. 🌍💥
 That’s when I made a decision:
 
-- 👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
+###👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
 
 That small thought—wondering how hacking works—grew into a deep **passion for cybersecurity**. ❤️‍🔥💻
 It became clear that **my path was set, and there was no turning back.** 🚀
@@ -110,11 +110,11 @@ Each step deepened my **understanding of ethical hacking**, **penetration testin
 
 # 🔑 Key Things I Learned in the Beginning
 
-1️⃣ **Networking Fundamentals** – A strong understanding of networking is essential for cybersecurity. 🌐
-2️⃣ **Linux Mastery** – Linux is a primary OS in cybersecurity, so learning it was crucial. 🐧
-3️⃣ **Programming Skills** – While not mandatory, programming proved highly beneficial for scripting and automation. 💻
-4️⃣ **Cybersecurity Concepts** – Learning the core fundamentals of **cyber threats, attacks, and defense mechanisms**. 🛡️
-5️⃣ **Penetration Testing Basics** – Understanding how ethical hacking works and exploring different testing methodologies. 🔍
+- 1️⃣ **Networking Fundamentals** – A strong understanding of networking is essential for cybersecurity. 🌐
+- 2️⃣ **Linux Mastery** – Linux is a primary OS in cybersecurity, so learning it was crucial. 🐧
+- 3️⃣ **Programming Skills** – While not mandatory, programming proved highly beneficial for scripting and automation. 💻
+- 4️⃣ **Cybersecurity Concepts** – Learning the core fundamentals of **cyber threats, attacks, and defense mechanisms**. 🛡️
+- 5️⃣ **Penetration Testing Basics** – Understanding how ethical hacking works and exploring different testing methodologies. 🔍
 
 This structured approach laid the foundation for my **cybersecurity journey**, allowing me to dive deeper into **ethical hacking, penetration testing, and security operations**. 🚀
 
@@ -208,9 +208,9 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## -  🔹 Personal Projects
 
-🚀 **Constantly working on practical projects, security research, and ethical hacking exercises** to enhance my expertise.
-📌 **Will continuously update and share findings** on my **GitHub** profile in the form of repositories.
-📂 **Documenting projects,security discoveries, and differnet thing** to contribute to the **cybersecurity community**. 🌍
+###🚀 **Constantly working on practical projects, security research, and ethical hacking exercises** to enhance my expertise.
+###📌 **Will continuously update and share findings** on my **GitHub** profile in the form of repositories.
+###📂 **Documenting projects,security discoveries, and differnet thing** to contribute to the **cybersecurity community**. 🌍
 
 
 # 🎯 Future Aspirations
@@ -233,9 +233,9 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 🌍 Long-Term Vision
 
-📢 **Mentoring and guiding** aspiring cybersecurity professionals.
-🎓 **Educating and engaging** with the community to help others **navigate the cybersecurity field**.
-💡 **Cybersecurity is not just a profession—it’s my mission.** I am determined to **make a lasting impact** by staying ahead of evolving threats and continuously **expanding my knowledge and contributions**.
+###📢 **Mentoring and guiding** aspiring cybersecurity professionals.
+###🎓 **Educating and engaging** with the community to help others **navigate the cybersecurity field**.
+###💡 **Cybersecurity is not just a profession—it’s my mission.** I am determined to **make a lasting impact** by staying ahead of evolving threats and continuously **expanding my knowledge and contributions**.
 
 # 📌 Projects
 
@@ -264,9 +264,9 @@ With a **strong command** of these tools and technologies, I **continuously expl
 ## 📖 Commitment to Continuous Learning
 
 -  🔹 **Cybersecurity evolves fast**—I stay updated through:
-📚 **Hands-on practice** | 🔗 **Security communities** | 📖 **Cybersecurity research**
+   📚 **Hands-on practice** | 🔗 **Security communities** | 📖 **Cybersecurity research**
 
-💡 **For me, cybersecurity isn’t just a career—it’s a mission** to make the digital world safer. 🔥💻🔐
+###💡 **For me, cybersecurity isn’t just a career—it’s a mission** to make the digital world safer. 🔥💻🔐
 
 # 📞 Contact & Connect
 
