@@ -9,7 +9,7 @@
 -  🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
 
 💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
-🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
+- 🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
 
 📧 **Email:** [mizazhaiderceh@gmail.com](mailto:mizazhaiderceh@gmail.com)
 
