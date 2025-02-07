@@ -4,12 +4,12 @@
 
 ## I am Muhammad Izaz Haider (Izaz)
 
--  🔹 **Aspiring Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
--  🔹 **Passionate about Offensive & Defensive Security**
--  🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
+- 🔹 **Aspiring Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
+- 🔹 **Passionate about Offensive & Defensive Security**
+- 🔹 **On a Mission to Master Cybersecurity & Ethical Hacking**
 
-###💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
-###🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
+💡 *Dedicated to protecting the digital world through ethical hacking, continuous learning, and real-world expertise.*
+🛡️ *Always exploring new threats, securing vulnerabilities, and empowering others with cybersecurity knowledge.*
 
 📧 **Email:** [mizazhaiderceh@gmail.com](mailto:mizazhaiderceh@gmail.com)
 
@@ -17,8 +17,8 @@
 
 My primary aim is to **become an expert in the cybersecurity field**, with a focus on **ethical hacking, penetration testing**, and **security management**.
 
--  🔹 I aspire to master both **offensive and defensive security** to help organizations protect their digital assets.
--  🔹 My goal is to always **stay ahead of the evolving security landscape**, continuously learning and adapting to new threats and technologies.
+- 🔹 I aspire to master both **offensive and defensive security** to help organizations protect their digital assets.
+- 🔹 My goal is to always **stay ahead of the evolving security landscape**, continuously learning and adapting to new threats and technologies.
 
 ## 🛡️ Why I Chose Cybersecurity
 
@@ -58,8 +58,8 @@ This realization fascinated me, but I was still unaware that **cybersecurity wou
 
 ## 💻 The Defining Moment: When My Account Got Hacked
 
-###Everything changed when one of my **Gmail accounts was hacked**. 🆘📩
-###This account was linked to my gaming ID 🎮, and losing access frustrated me. 😡
+Everything changed when one of my **Gmail accounts was hacked**. 🆘📩
+This account was linked to my gaming ID 🎮, and losing access frustrated me. 😡
 
 But instead of just feeling angry, I started asking myself:
 
@@ -70,7 +70,7 @@ But instead of just feeling angry, I started asking myself:
 As I explored further, I realized that **millions of people fall victim to cyberattacks every day**. 🌍💥
 That’s when I made a decision:
 
-###👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
+👉 **I will not only protect myself but also help secure others from hackers.** 🛡️🔍
 
 That small thought—wondering how hacking works—grew into a deep **passion for cybersecurity**. ❤️‍🔥💻
 It became clear that **my path was set, and there was no turning back.** 🚀
@@ -82,9 +82,9 @@ Cybersecurity is a vast field 🌐, and without a clear roadmap or mentor, I str
 
 ### 💡 How I Overcame These Challenges:
 
-- - ✔ **Self-research & problem-solving** 🕵️‍♂️ – I explored different domains within cybersecurity and created a structured learning path.
-- - ✔ **Mastering the fundamentals** 🔍 – I deep-dived into programming, attack techniques, and core security principles to build a strong foundation.
-- - ✔ **Engaging with the community** 🌎 – I actively asked questions, connected with cybersecurity experts, and participated in forums to accelerate my learning.
+- ✔ **Self-research & problem-solving** 🕵️‍♂️ – I explored different domains within cybersecurity and created a structured learning path.
+- ✔ **Mastering the fundamentals** 🔍 – I deep-dived into programming, attack techniques, and core security principles to build a strong foundation.
+- ✔ **Engaging with the community** 🌎 – I actively asked questions, connected with cybersecurity experts, and participated in forums to accelerate my learning.
 
 Even today, I continue to face challenges. **However, my ability to adapt, research, and experiment has empowered me to find solutions independently.** 🏆🔥
 
@@ -93,6 +93,7 @@ Even today, I continue to face challenges. **However, my ability to adapt, resea
 ## 👨‍💻 My First Experience with Cybersecurity
 
 My journey into **cybersecurity** was fascinating from the very start. 🚀
+
 - As I explored, I realized that **understanding fundamental concepts** is necessary to truly grasp this field.
 
 One of my **first hands-on experiences** was **creating a bootable USB of Kali Linux** 🖥️💿 and running it for the first time.
@@ -102,8 +103,8 @@ Exploring its **powerful tools and features** 🛠️ made me incredibly excited
 
 I began my **learning journey** through:
 
-- - ✔ **Online tutorials** 📺 – Learning about **Linux**, **ethical hacking tools**, and **cybersecurity basics**.
-- - ✔ **Hands-on practice** 🛠️ – Experimenting with **Kali Linux** and later switching to **Parrot OS** 🦜 to explore security tools in real-world scenarios.
+- ✔ **Online tutorials** 📺 – Learning about **Linux**, **ethical hacking tools**, and **cybersecurity basics**.
+- ✔ **Hands-on practice** 🛠️ – Experimenting with **Kali Linux** and later switching to **Parrot OS** 🦜 to explore security tools in real-world scenarios.
 - ✔ **Professional courses & books** 📖 – Studying **structured cybersecurity materials** to build strong foundational knowledge.
 
 Each step deepened my **understanding of ethical hacking**, **penetration testing**, and **defensive security techniques**. 🔍💡
@@ -175,26 +176,24 @@ With these skills, I am **continuously evolving** to stay ahead in the **dynamic
 
 With a **strong command** of these tools and technologies, I **continuously explore and enhance** my expertise in **cybersecurity**. 🔥
 
-
 # 📚 Education & Learning Journey
 
 ## 🎓 Academic Background
 
 - ✔ **Matriculation (10th Grade)  & Intermediate (ICS) – Both with Computer Science**🖥️
 
-   🎯 **Excelled in programming and IT fundamentals**, building a strong technical foundation
-   🏆 **Achieved top position** in computer science.
-   🛠 **Recognized as a senior lab solver**, assisting fellow students with computer-related challenges.
+  🎯 **Excelled in programming and IT fundamentals**, building a strong technical foundation
+  🏆 **Achieved top position** in computer science.
+  🛠 **Recognized as a senior lab solver**, assisting fellow students with computer-related challenges.
 
 ## 📖 Self-Learning & Additional Courses
 
 - ✔ **Online Certifications & Courses** 🎓
-   📌 **Completed various cybersecurity & IT courses** on Udemy and other platforms.
-   🛡 **Gained expertise** in **ethical hacking, penetration testing, and programming**.
-
+  📌 **Completed various cybersecurity & IT courses** on Udemy and other platforms.
+  🛡 **Gained expertise** in **ethical hacking, penetration testing, and programming**.
 - ✔ **Books & Resources** 📚
-   📖 *"The Concepts of Information Technology" (9th Edition)* – Strengthened **fundamental IT knowledge**.
-   🔍 *"Introduction to Penetration Testing" by Georgia Weidman* – **Deepened understanding** of ethical hacking & cybersecurity testing.
+  📖 *"The Concepts of Information Technology" (9th Edition)* – Strengthened **fundamental IT knowledge**.
+  🔍 *"Introduction to Penetration Testing" by Georgia Weidman* – **Deepened understanding** of ethical hacking & cybersecurity testing.
 
 💡 My education combines **formal studies, hands-on practice, and self-driven learning**, making me **highly adaptable** in the field of cybersecurity. 🚀
 
@@ -208,17 +207,16 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## -  🔹 Personal Projects
 
-###🚀 **Constantly working on practical projects, security research, and ethical hacking exercises** to enhance my expertise.
-###📌 **Will continuously update and share findings** on my **GitHub** profile in the form of repositories.
-###📂 **Documenting projects,security discoveries, and differnet thing** to contribute to the **cybersecurity community**. 🌍
-
+🚀 **Constantly working on practical projects, security research, and ethical hacking exercises** to enhance my expertise.
+📌 **Will continuously update and share findings** on my **GitHub** profile in the form of repositories.
+📂 **Documenting projects,security discoveries, and differnet thing** to contribute to the **cybersecurity community**. 🌍
 
 # 🎯 Future Aspirations
 
 ## 🚀 Become a Cybersecurity Expert
 
--  🔹 **Committed to continuous learning** to become a top-tier **cybersecurity specialist**.
--  🔹 Mastering both **offensive** (ethical hacking, penetration testing) & **defensive** (security operations, threat analysis) strategies.
+- 🔹 **Committed to continuous learning** to become a top-tier **cybersecurity specialist**.
+- 🔹 Mastering both **offensive** (ethical hacking, penetration testing) & **defensive** (security operations, threat analysis) strategies.
 
 ## 🔐 Contribute to Open-Source Security Tools
 
@@ -226,7 +224,7 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 💼 Work in High-Stakes Cybersecurity Roles
 
--  🔹 **Aiming to secure** critical infrastructures, businesses, and individuals by working in **challenging cybersecurity roles**:
+- 🔹 **Aiming to secure** critical infrastructures, businesses, and individuals by working in **challenging cybersecurity roles**:
 - ✔ **Penetration Tester** – Simulating real-world attacks to **enhance security**. 🔍
 - ✔ **Security Analyst** – **Monitoring and defending** systems from cyber threats. 🛡️
 - ✔ **Red Team Specialist** – **Testing and strengthening** security defenses through **ethical hacking**. 🎭
@@ -241,11 +239,9 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 📂 Check out my projects **[here](https://github.com/mizazhaider-ceh?tab=repositories)**.
 
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizazhaider-ceh&show_icons=true&theme=dark)
-
 
 # 📌 What I’m Passionate About
 
@@ -263,10 +259,10 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 ## 📖 Commitment to Continuous Learning
 
--  🔹 **Cybersecurity evolves fast**—I stay updated through:
-   📚 **Hands-on practice** | 🔗 **Security communities** | 📖 **Cybersecurity research**
+- 🔹 **Cybersecurity evolves fast**—I stay updated through:
+  📚 **Hands-on practice** | 🔗 **Security communities** | 📖 **Cybersecurity research**
 
-###💡 **For me, cybersecurity isn’t just a career—it’s a mission** to make the digital world safer. 🔥💻🔐
+💡 **For me, cybersecurity isn’t just a career—it’s a mission** to make the digital world safer. 🔥💻🔐
 
 # 📞 Contact & Connect
 
@@ -275,8 +271,9 @@ With a **strong command** of these tools and technologies, I **continuously expl
 
 💬 **Let’s Connect!**
 I’m always open to **collaborations, discussions, and networking** in cybersecurity. Whether you're:
--  🔹 A **fellow ethical hacker** 🕵️‍♂️
--  🔹 A **company looking for security expertise** 🏢
--  🔹 Someone **passionate about learning cybersecurity** 🎓
+
+- 🔹 A **fellow ethical hacker** 🕵️‍♂️
+- 🔹 A **company looking for security expertise** 🏢
+- 🔹 Someone **passionate about learning cybersecurity** 🎓
 
 **Feel free to reach out!** 🚀🔐
