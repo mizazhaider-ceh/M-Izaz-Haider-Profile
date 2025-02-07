@@ -160,7 +160,7 @@ With these skills, I am **continuously evolving** to stay ahead in the **dynamic
 - ✔ **Hydra & Medusa** – Password cracking tools. 🔓
 - ✔ **Aircrack-ng** – Wireless security auditing. 📶
 - ✔ **Passive & Active Reconnaissance Tools** – Information gathering for cybersecurity assessments. 📡
-
+- ✔ **Much Tools** – Exploring more and more tools 📡
 ## 💻 Programming & Scripting Languages
 
 - ✔ **Python** – Automating security tasks and scripting exploits. 🐍
